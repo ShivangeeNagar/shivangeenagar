@@ -5,7 +5,7 @@
 
 - 🔭 I am an aspiring Data Scientist, gathering experience and knowledge about deep learning. Currently my interests weigh heavily towards Natural Language Processing and Machine Learning  in particular. Majority of my projects so far have been related to NLP and I have considerable experience working with relevant tools. Looking forward to connecting with people that share a similar passion about the subject, to share and grow together
 
-- 👨‍💻 [Resume](https://drive.google.com/file/d/1rE2LD5BzCnXISItSWW9r9xjjRfRvIk-5/view?usp=sharing)
+
 
 - 📫 How to reach me **nagar.sh@northeastern.edu**
 
