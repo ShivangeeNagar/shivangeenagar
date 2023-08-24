@@ -47,9 +47,9 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=nodejs,github,python,javascript,express,mongodb,c,java,react,r" /><br>
-    <img src="https://skillicons.dev/icons?i=bootstrap,mysql,html,css,vscode,git,vite" /><br>
-    <img src="https://skillicons.dev/icons?i=cpp,docker,gitlab,hibernate,linux,netlify,postman,threejs,unity" />
+    <img src="https://skillicons.dev/icons?i=nodejs,github,python,javascript,express,mongodb,c,java,react,r, bash, jquery, matlab, redux, spring" /><br>
+    <img src="https://skillicons.dev/icons?i=bootstrap,mysql,html,css,vscode,git,vite, ansible, arduino, eclipse, idea, redis" /><br>
+    <img src="https://skillicons.dev/icons?i=cpp,docker,gitlab,hibernate,linux,netlify,postman,threejs,unity, blender, cs, materialui, sass, visualstudio" />
       <!-- Custom Skill Badges -->
   
 </div>
