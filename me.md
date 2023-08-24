@@ -15,11 +15,12 @@
  
  🎒 I’m currently finishing my **Masters** in Information Systems Engineering at Northeastern University, Boston
 
- 🔭 Graduating in December 2023, I am open to Full-Time roles in the US in **Software Development** (Front-end/Backend/Game and Unity 3D Developer)
+ 🔭 Graduating in December 2023, I am open to Full-Time roles in the US in **Software Development** 
+                         <br> (Front-end/Backend/Game and Unity 3D Developer)
  
- 💼 I have completed my 7 month Summer-Fall Co-op as a Full-Stack Software Engineer at [@Vecna Robotics, US]([https://www.vecnarobotics.com/)]🇺🇸. I have also served as a Graduate Research Assistant at Northeastern University in their HDI department for 6 months, where I worked in th field of VR Development. Prior to my studies at Norteastern, I worked as a Software Developer at [@Siemens, India](https://www.siemens.com/global/en.html) 🇮🇳, for 3 years where I was involved in Frontend and Backend of various in-house web applications.
+ 💼 I have completed my 7 month Summer-Fall Co-op as a Full-Stack Software Engineer at [@Vecna Robotics, US](https://www.vecnarobotics.com/)🇺🇸. I have also served as a Graduate Research Assistant at Northeastern University in their HDI department for 6 months, where I worked in th field of VR Development. Prior to my studies at Norteastern, I worked as a Software Developer at [@Siemens, India](https://www.siemens.com/global/en.html) 🇮🇳, for 3 years where I was involved in Frontend and Backend of various in-house web applications.
 
- 🔦 Check out my Portfolio [here](https://shivangeenagarportfoliowebsite.netlify.app/)** 
+ 🔦 Check out my Portfolio [here](https://shivangeenagarportfoliowebsite.netlify.app/)
 
  ⚡ Hobbies - Talking about Cosmos/Astrophysics 🪐, Creating and Playing with 3D Visuals 🌎, Dancing 💃, Writing 📝
  
