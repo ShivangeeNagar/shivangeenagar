@@ -13,7 +13,7 @@
 
 <div align="center">
  
- 🎒 I’m currently finishing my **Masters** in Information Systems Engineering at Northeastern University, Boston
+ 🎒 I’m currently finishing my **Masters** in Software Engineering at Northeastern University, Boston
 
  🔭 Graduating in December 2023, I am open to Full-Time roles in the US in **Software Development** 
                          <br> (Front-end/Backend/Cloud/Game and Unity 3D Developer)
