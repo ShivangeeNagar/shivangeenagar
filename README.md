@@ -13,9 +13,9 @@
 
 <div align="center">
  
- 🎒 I’m currently finishing my **Masters** in Software Engineering at Northeastern University, Boston
+ 🎒 Recently graduated with my **Masters** in Software Engineering at Northeastern University, Boston
 
- 🔭 Graduating in December 2023, I am open to Full-Time roles in the US in **Software Development** 
+ 🔭 I am open to Full-Time roles in the US in **Software Development** 
                          <br> (Front-end/Backend/Cloud/Game and Unity 3D Developer)
  
  💼 I worked as a Software Engineer at [@Siemens, India](https://www.siemens.com/global/en.html) 🇮🇳 for 3 years where I was involved in Frontend and Backend and creating AWS infrastructure of various in-house web applications.I have completed my 7 month Summer-Fall Co-op as a Full-Stack Software Engineer at [@Vecna Robotics, US](https://www.vecnarobotics.com/)🇺🇸. I have also served as a Graduate Research Assistant at Northeastern University in their Virtual Reality & Human Data Interaction department for 6 months, where I worked in th field of VR Development. Prior to my studies at Norteastern.
