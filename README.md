@@ -13,7 +13,7 @@
 
 <div align="center">
  
- 🎒 Recently graduated with my **Masters** in Computer Software Engineering at Northeastern University, Boston, I am working as a Site Reliability Developer at Oracle Cloud Infrastructure (OCI) @Austin, Texas
+ 🎒 Recently graduated with my **Masters** in Computer Software Engineering at Northeastern University, Boston, I am working as a Site Reliability Developer at Oracle @Austin, Texas
  
  💼 I worked as a Software Engineer at [@Siemens, India](https://www.siemens.com/global/en.html) 🇮🇳 for 3 years where I was involved in Frontend and Backend and creating AWS infrastructure of various in-house web applications.I have completed my 7 month Summer-Fall Co-op as a Full-Stack Software Engineer at [@Vecna Robotics, US](https://www.vecnarobotics.com/)🇺🇸. I have also served as a Graduate Research Assistant at Northeastern University in their Virtual Reality & Human Data Interaction department for 6 months, where I worked in th field of VR Development.
 
